@@ -4,15 +4,15 @@
     --mercury-size: 6px;
     --mercury-orbit-radius: 70px;
     --mercury-orbit-duration: 1.2s;
-    --mercury-color: orangered;
+    --mercury-color: rgb(255, 68, 0);
     --venus-size: 13px;
     --venus-orbit-radius: 100px;
     --venus-orbit-duration: 3s;
-    --venus-color: green;
+    --venus-color: rgb(0, 255, 0);
     --earth-size: 16px;
     --earth-orbit-radius: 135px;
     --earth-orbit-duration: 5s;
-    --earth-color: radial-gradient(rgb(0, 80, 0), rgb(50, 50, 255), rgba(255, 255, 0, 0.281), red);
+    --earth-color: radial-gradient(rgb(0, 80, 0), 3px , rgb(50, 50, 255), 6px, rgba(255, 255, 0, 0.39), 7px, red);
     --moon-size: 5px;
     --moon-orbit-radius: 20px;
     --moon-orbit-duration: 0.4s;
@@ -20,7 +20,7 @@
     --mars-size: 10px;
     --mars-orbit-radius: 185px;
     --mars-orbit-duration: 9s;
-    --mars-color: red;
+    --mars-color: rgb(182, 0, 0);
     --jupiter-size: 30px;
     --jupiter-orbit-radius: 230px;
     --jupiter-orbit-duration: 59.3s;
@@ -28,7 +28,7 @@
     --saturn-size: 20px;
     --saturn-orbit-radius: 270px;
     --saturn-orbit-duration: 147.3s;
-    --saturn-color: brown;
+    --saturn-color: rgb(36, 36, 36);
 }
 
 body, html {
